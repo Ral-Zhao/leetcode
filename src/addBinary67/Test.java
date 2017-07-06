@@ -6,5 +6,6 @@ public class Test
 	{
 		Solution s = new Solution();
 		System.out.println(s.addBinary("111","11101"));
+		//temp
 	}
 }
